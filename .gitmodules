@@ -1,0 +1,3 @@
+[submodule "locFour/Alamofire"]
+	path = locFour/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
